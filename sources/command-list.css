@@ -1,3 +1,11 @@
 .command-name {
-	font-family: "Roboto Mono"
+	font-family: "Roboto Mono", monospace, Arial;
+}
+
+.admin-command {
+	color: rgb(249, 78, 39);
+}
+
+.mod-command {
+	color: rgb(31, 163, 244);
 }
